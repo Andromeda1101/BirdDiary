@@ -1,0 +1,6 @@
+[submodule "BirdDiaryBackEnd"]
+	path = BirdDiaryBackEnd
+	url = git@github.com:Andromeda1101/BirdDiaryBackEnd.git
+[submodule "BirdDiaryFrontEnd"]
+	path = BirdDiaryFrontEnd
+	url = git@github.com:Andromeda1101/BirdDiaryFrontEnd.git
